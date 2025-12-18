@@ -18,7 +18,14 @@ Once these variables were eliminated, I was able to see a trend that in the olde
 the highest regression coefficient, followed by Prime players, and finally, young players.
 
 The results from this project are as follows: 
+
 The value of 1 additional 3pt make for a player 30+ is equivalent to $4,680,482.62
+
 The value of 1 additional 3pt make for a player 25-29 is equivalent to $4,564,190.19
+
 The value of 1 additional 3pt make for a player 19-24 is equivalent to $1,762,416.01
 
+
+The data analysis can be found in the /data folder in Basketball Reference Data.xlsx
+This file includes all of the analysis and troubleshooting work that was done in this project. 
+Noteable figures can be found in the /figures folder. All checkpoints from each week can be found in the /reports folder. Checkpoints indicate progress that was done each week during this project.
