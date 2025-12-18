@@ -17,6 +17,8 @@ I had to eliminate some of the x variables as some were statistically insignific
 Once these variables were eliminated, I was able to see a trend that in the oldest age group, 3pt shooting contributed the most to win shares with 
 the highest regression coefficient, followed by Prime players, and finally, young players.
 
+<img width="777" height="453" alt="3Pt Make Value by Age" src="https://github.com/user-attachments/assets/15efd780-61dd-4a1f-ab1a-f432bea22082" />
+
 The results from this project are as follows: 
 
 The value of 1 additional 3pt make for a player 30+ is equivalent to $4,680,482.62
