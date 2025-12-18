@@ -16,3 +16,9 @@ I ran regression models at each of these age ranges and evaluated the effect tha
 I had to eliminate some of the x variables as some were statistically insignificant and throwing off my results (variables like rebounds or assists)
 Once these variables were eliminated, I was able to see a trend that in the oldest age group, 3pt shooting contributed the most to win shares with 
 the highest regression coefficient, followed by Prime players, and finally, young players.
+
+The results from this project are as follows: 
+The value of 1 additional 3pt make for a player 30+ is equivalent to $4,680,482.62
+The value of 1 additional 3pt make for a player 25-29 is equivalent to $4,564,190.19
+The value of 1 additional 3pt make for a player 19-24 is equivalent to $1,762,416.01
+
